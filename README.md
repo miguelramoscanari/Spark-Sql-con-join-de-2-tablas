@@ -11,6 +11,10 @@ Debe usar Databrics community edition que es gratuito
 - Abrier notebook "spark_miguel.ipynb", usando Worrksapce / import / File
 - En el Notebook, usar menu File / Upload data DBFS para añair "cliente.csv", y "venta.csv"
 
+Nota: Para usar databricks, usen este material del docente del curso. 
+
+https://drive.google.com/drive/folders/1uxegRyfwizG6C-btg0dazaPkWjy-QUBx
+
 # Explicacion del codigo
 Usando Spark, creamos un dataframe
 
